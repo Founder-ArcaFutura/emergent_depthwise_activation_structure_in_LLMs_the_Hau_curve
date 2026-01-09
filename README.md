@@ -1,6 +1,6 @@
 BLUF: 
 
-* Large Language Models share a universal pattern in the magnitude of their transformer block activations which replicates accross model familes, and parameter counts.
+* Large Language Models share a universal pattern in the magnitude of their transformer block activations which replicates across model families, and parameter counts.
 * This universal invariant emerges fairly early in training, and is extremely stable.
 * This structure can serve as an internal diagnostic lens for training dynamics and potential failure modes.
 
