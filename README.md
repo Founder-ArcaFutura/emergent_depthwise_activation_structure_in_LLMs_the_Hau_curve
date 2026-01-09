@@ -1,4 +1,12 @@
-Abstract
+BLUF: 
+
+* Large Language Models share a universal pattern in the magnitude of their transformer block activations which replicates accross model familes, and parameter counts.
+* This universal invariant emerges fairly early in training, and is extremely stable.
+* This structure can serve as an internal diagnostic lens for training dynamics and potential failure modes.
+
+
+**Abstract**
+
 Large Language Models (LLMs) not only differ in performance, but also in how they distribute
 computation across depth. In this work, we identify a remarkably consistent three-phase activation
 pattern that emerges during training and recurs across diverse decoder-only transformers. Analyzing
@@ -14,3 +22,4 @@ indicating a depth-dependent emergence threshold rather than a purely parametric
 findings position the Hau Curve—and its convergence behavior, the Hau Attractor—as fundamental
 structural properties of transformer LLMs, revealing intrinsic architectural dynamics not observable
 from model behavior alone.
+
