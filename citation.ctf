@@ -1,0 +1,13 @@
+## Citation
+
+If you use or reference this work, please cite:
+
+Adrian Hau. *Emergent Depthwise Activation Structure in Transformer Language Models.* Arca Futura LLC, 2025.
+
+BibTeX:
+```bibtex
+@article{hau2025depthwise,
+  title={Emergent Depthwise Activation Structure in Transformer Language Models},
+  author={Hau, Adrian},
+  year={2025}
+}
